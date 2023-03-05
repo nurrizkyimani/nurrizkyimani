@@ -12,7 +12,7 @@ I love anything systematic and algoritmic. I have 3 things that I have strong cu
 - Universitas Gadjah Mada, Bachelor of Computer Science 2022
 - Exchange at University of Pennsylvania, Fall 2021
 
-# Something I Have Been Really Curious and Willing to Spend Time 
+# Something I Have Been Really Curious On
 - Money: Computational Finance combination with Computational Linguistic
 - System: How system works from Algorithm and Mathematical perspective 
 - Stories:  Narative from Computational Linguistic perspective
