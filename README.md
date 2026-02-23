@@ -1,4 +1,4 @@
-# Hi, my name is 0xrzkyx
+# Hi, I am 0xrzkyx
 
 # About
 I love anything systematic and algoritmic. I have 3 things that I have strong curiousity in life : System, Paradox, Performance. I have strong interest in understanding Money (as system) from computational perspective. I enjoy go to gym almost everyday, try to maxout my bench, deadlift and squat. 
@@ -9,8 +9,8 @@ I love anything systematic and algoritmic. I have 3 things that I have strong cu
 - Backend Engineering 
 
 # Education 
-- Universitas Gadjah Mada, Bachelor of Computer Science 2022
-- Exchange at University of Pennsylvania, Fall 2021
+- Universitas Gadjah Mada, Bachelor of Computer Science
+- Exchange at University of Pennsylvania
 
 # Something I have been really curious on
 - Money: Computational Finance combination with Computational Linguistic
