@@ -1,4 +1,4 @@
-# Hi, my name is Nurrizky Imani
+# Hi, my name is 0xrzkyx
 
 # About
 I love anything systematic and algoritmic. I have 3 things that I have strong curiousity in life : System, Paradox, Performance. I have strong interest in understanding Money (as system) from computational perspective. I enjoy go to gym almost everyday, try to maxout my bench, deadlift and squat. 
